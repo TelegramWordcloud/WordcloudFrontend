@@ -1,6 +1,6 @@
 ### Word Cloud Front-end application
 
-####Stack:
+Stack:
 
 - React
 - Mobx
